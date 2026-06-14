@@ -27,7 +27,7 @@ msgid ""
 "list of numbers [code][0, 1, 2][/code]."
 msgstr ""
 "Die Funktion [code]range()[/code], die wir in der vorherigen Lektion gesehen "
-"haben, gibt eine Liste von Zahlen aus. Wenn Du beispielsweise [code]range(3)"
+"haben, gibt eine Liste von Zahlen aus. Wenn du beispielsweise [code]range(3)"
 "[/code] aufrufst, wird eine Liste der Zahlen [code][0, 1, 2][/code] erzeugt."
 
 #: course/lesson-19-creating-arrays/lesson.tres:33
@@ -89,15 +89,15 @@ msgid ""
 "complete the array."
 msgstr ""
 "Du beginnst mit einer sich öffnenden, eckigen Klammer. Anschließend "
-"schreibst Du kommagetrennte Werte, aus denen sich das Array zusammensetzt. "
-"Schließlich benötigst Du eine schließende eckige Klammer, um das Array zu "
+"schreibst du kommagetrennte Werte, aus denen sich das Array zusammensetzt. "
+"Schließlich benötigst du eine schließende eckige Klammer, um das Array zu "
 "vervollständigen."
 
 msgid ""
 "Here are a couple of valid arrays. Notice how you can mix values, and how "
 "they don't need to follow one another."
 msgstr ""
-"Hier sind ein paar gültige Arrays. Beachte, dass Du die Werte mischen kannst "
+"Hier sind ein paar gültige Arrays. Beachte, dass du die Werte mischen kannst "
 "und sie nicht aufeinander folgen müssen."
 
 #: course/lesson-19-creating-arrays/lesson.tres:139
@@ -123,7 +123,7 @@ msgstr "Aber lass uns zuerst sehen, [i]wann[/i] ein Array zu verwenden ist."
 
 #: course/lesson-19-creating-arrays/lesson.tres:169
 msgid "When you use arrays"
-msgstr "Wann Du Arrays verwendest"
+msgstr "Wann du Arrays verwendest"
 
 #: course/lesson-19-creating-arrays/lesson.tres:171
 msgid "In computer programming, we use arrays [i]all the time[/i]."
@@ -134,7 +134,7 @@ msgid ""
 "Precisely, you'll use them whenever you need to store a [i]list of things[/"
 "i]."
 msgstr ""
-"Genau genommen wirst Du sie immer dann verwenden, wenn Du eine [i]Liste von "
+"Genau genommen wirst du sie immer dann verwenden, wenn du eine [i]Liste von "
 "Dingen[/i] speichern musst."
 
 msgid "You always need lists of things in games:"
@@ -219,7 +219,7 @@ msgid ""
 "In upcoming lessons, you will see how we can use arrays to store player "
 "inventories or design attack combos."
 msgstr ""
-"In den kommenden Lektionen wirst Du sehen, wie wir Arrays verwenden können, "
+"In den kommenden Lektionen wirst du sehen, wie wir Arrays verwenden können, "
 "um Spielerinventare zu speichern oder Angriffskombos zu entwerfen."
 
 msgid "For now, let's practice creating arrays."
@@ -290,14 +290,14 @@ msgid ""
 "function argument."
 msgstr ""
 "Du kannst Arrays in Funktionsaufrufen als Argumente übergeben. Da ein Array "
-"ein Werttyp ist, den der Computer erkennt, kannst Du das gesamte Array als "
+"ein Werttyp ist, den der Computer erkennt, kannst du das gesamte Array als "
 "einzelnes Funktionsargument übergeben."
 
 msgid ""
 "Select all units on the board by passing the correct array to the "
 "[code]select_units()[/code] function."
 msgstr ""
-"Wähle alle Einheiten auf dem Spielbrett aus, indem Du das richtige Array an "
+"Wähle alle Einheiten auf dem Spielbrett aus, indem du das richtige Array an "
 "die Funktion [code]select_units()[/code] übergibst."
 
 #: course/lesson-19-creating-arrays/lesson.tres:322

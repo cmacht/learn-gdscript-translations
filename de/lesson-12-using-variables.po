@@ -163,8 +163,8 @@ msgid ""
 "function body. Make sure to create the variable before using it!"
 msgstr ""
 "Wir richten die Variablenzuweisung durch Einrücken aus, um sie zu einem Teil "
-"des Funktionskörpers zu machen. Stelle sicher, dass Du die Variable "
-"erstellst, bevor Du sie verwendest!"
+"des Funktionskörpers zu machen. Stelle sicher, dass du die Variable "
+"erstellst, bevor du sie verwendest!"
 
 msgid ""
 "If we define a variable inside of a function, only that function can use it."
@@ -254,7 +254,7 @@ msgid ""
 "this function by storing a value in a variable."
 msgstr ""
 "Die Verwendung von Variablen zum Speichern von Zahlenwerten erleichtert das "
-"Lesen von Code. Räume diese Funktion auf, indem Du einen Wert in einer "
+"Lesen von Code. Räume diese Funktion auf, indem du einen Wert in einer "
 "Variablen speicherst."
 
 #: course/lesson-12-using-variables/lesson.tres:275
@@ -263,7 +263,7 @@ msgstr "Beheben eines Fehlers außerhalb des Gültigkeitsbereichs"
 
 #: course/lesson-12-using-variables/lesson.tres:276
 msgid "There's something wrong with the code here. Can you see what it is?"
-msgstr "Hier stimmt etwas nicht mit dem Code. Kannst Du sehen, was es ist?"
+msgstr "Hier stimmt etwas nicht mit dem Code. Kannst du sehen, was es ist?"
 
 msgid "Run the code and read the error."
 msgstr "Führe den Code aus, und lese den Fehler."
@@ -273,7 +273,7 @@ msgstr "Korrigiere den Code, damit er wie beabsichtigt funktioniert."
 
 #: course/lesson-12-using-variables/lesson.tres:295
 msgid "Uh oh! There's something wrong here. Can you fix it?"
-msgstr "Uh oh! Hier stimmt etwas nicht. Kannst Du das Problem beheben?"
+msgstr "Uh oh! Hier stimmt etwas nicht. Kannst du das Problem beheben?"
 
 #: course/lesson-12-using-variables/lesson.tres:299
 msgid "Using Variables to Make Code Easier to Read"

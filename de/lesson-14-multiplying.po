@@ -235,7 +235,7 @@ msgid ""
 "In the practices, you'll increase the robot's [code]max_health[/code] and "
 "add a special ability to our robot to make it extra tough at high levels."
 msgstr ""
-"In den Übungen erhöhst Du die Variable [code]max_health[/code] des Roboters "
+"In den Übungen erhöhst du die Variable [code]max_health[/code] des Roboters "
 "und fügst unserem Roboter eine spezielle Fähigkeit hinzu, um ihn auf hohen "
 "Stufen besonders widerstandsfähig machen."
 

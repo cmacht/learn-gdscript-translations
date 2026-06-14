@@ -95,9 +95,9 @@ msgid ""
 "If you need to use a returned value more than once, store it in a variable "
 "first. Otherwise, you can use the function call directly where you need it."
 msgstr ""
-"Wenn Du einen Rückgabewert öfter als einmal brauchst, lege ihn zunächst in "
-"einer Variable ab. Ansonsten kannst Du die Funktion auch direkt dort "
-"aufrufen, wo Du den Rückgabewert benötigst."
+"Wenn du einen Rückgabewert öfter als einmal brauchst, lege ihn zunächst in "
+"einer Variable ab. Ansonsten kannst du die Funktion auch direkt dort "
+"aufrufen, wo du den Rückgabewert benötigst."
 
 #: course/lesson-22-functions-return-values/lesson.tres:101
 msgid "A cooler example: lerp()"

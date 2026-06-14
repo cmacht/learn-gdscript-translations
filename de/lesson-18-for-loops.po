@@ -53,7 +53,7 @@ msgid ""
 "recommend using for loops instead of while loops because of this[/b]."
 msgstr ""
 "Im Gegensatz zu [code]while[/code]-Schleifen laufen [code]for[/code]-"
-"Schleifen nicht unendlich, so dass es viel unwahrscheinlicher ist, dass Du "
+"Schleifen nicht unendlich, so dass es viel unwahrscheinlicher ist, dass du "
 "Fehler in Deinem Spiel erhältst. [b]Aus diesem Grund empfehlen wir for-"
 "Schleifen statt while-Schleifen zu verwenden[/b]."
 
@@ -112,7 +112,7 @@ msgid ""
 "So calling [code]range(6)[/code] will output a list of six numbers which are "
 "[code][0, 1, 2, 3, 4, 5][/code]."
 msgstr ""
-"Wenn Du also [code]range(6)[/code] aufrufst, wird eine Liste von sechs "
+"Wenn du also [code]range(6)[/code] aufrufst, wird eine Liste von sechs "
 "Zahlen ausgegeben, die [code][0, 1, 2, 3, 4, 5][/code] sind."
 
 #: course/lesson-18-for-loops/lesson.tres:87

@@ -27,7 +27,7 @@ msgstr "In dieser Lektion werfen wir einen ersten Blick auf Variablen."
 
 msgid "In games, you need to keep track of many values that change over time:"
 msgstr ""
-"In Spielen musst Du viele Werte im Auge behalten, die sich im Laufe der Zeit "
+"In Spielen musst du viele Werte im Auge behalten, die sich im Laufe der Zeit "
 "ändern:"
 
 msgid ""
@@ -67,7 +67,7 @@ msgid ""
 "Function parameters, which you saw in the previous lesson, are another "
 "example of variables."
 msgstr ""
-"Funktionsparameter, die Du in der vorherigen Lektion gesehen hast, sind ein "
+"Funktionsparameter, die du in der vorherigen Lektion gesehen hast, sind ein "
 "weiteres Beispiel für Variablen."
 
 #: course/lesson-7-member-variables/lesson.tres:56
@@ -111,7 +111,7 @@ msgid ""
 msgstr ""
 "Angenommen, wir möchten die Rotation auf [code]0[/code] zurücksetzen und den "
 "Charakter aufrecht stellen, dann ist dies über die Funktion [code]rotate()[/"
-"code] nur schwierig zu bewerkstelligen: Du musst nämlich den genauen "
+"code] nur schwierig zu bewerkstelligen: du musst nämlich den genauen "
 "aktuellen Winkel des Charakters kennen, um ihn aufrecht darzustellen."
 
 msgid "It's much easier to use the member variable rather than the function."
@@ -142,21 +142,21 @@ msgstr "Was ist eine Variable?"
 #: course/lesson-7-member-variables/lesson.tres:117
 msgid "Variables are labels you use to access values that change over time."
 msgstr ""
-"Variablen sind Beschriftungen, die Du verwendest, um auf Werte zuzugreifen, "
+"Variablen sind Beschriftungen, die du verwendest, um auf Werte zuzugreifen, "
 "die sich im Laufe der Zeit ändern."
 
 msgid ""
 "You can also use them to put a name on a value you want to reuse throughout "
 "your code. It makes your code easier to read and to change."
 msgstr ""
-"Du kannst sie auch verwenden, um einen Wert, den Du im gesamten Code "
+"Du kannst sie auch verwenden, um einen Wert, den du im gesamten Code "
 "wiederverwenden möchtest, mit einem Namen zu versehen. Es macht deinen Code "
 "leichter zu lesen und zu ändern."
 
 #: course/lesson-7-member-variables/lesson.tres:120
 msgid "A label you use to keep track of a value that can change."
 msgstr ""
-"Eine Bezeichnung, die Du verwendest, um einen Wert nachzuverfolgen, der sich "
+"Eine Bezeichnung, die du verwendest, um einen Wert nachzuverfolgen, der sich "
 "ändern kann."
 
 #: course/lesson-7-member-variables/lesson.tres:120
@@ -174,7 +174,7 @@ msgstr "Auf Untervariablen mit dem Punkt zugreifen"
 #: course/lesson-7-member-variables/lesson.tres:130
 msgid ""
 "In video games, you will see many member variables that have sub-values."
-msgstr "In Videospielen findest Du viele Membervariablen mit Unterkomponenten."
+msgstr "In Videospielen findest du viele Membervariablen mit Unterkomponenten."
 
 msgid ""
 "For example, the [code]position[/code] we mentioned has two coordinates: "
@@ -266,7 +266,7 @@ msgid ""
 "classes. However, in math, axes go in any direction. They don't even have to "
 "be perpendicular."
 msgstr ""
-"Es kann verwirrend sein, wenn Du nur die Y-Achse kennst, die im "
+"Es kann verwirrend sein, wenn du nur die Y-Achse kennst, die im "
 "Mathematikunterricht nach oben zeigt. In der Mathematik gehen Achsen jedoch "
 "in jede Richtung. Sie müssen nicht einmal senkrecht stehen."
 
@@ -277,7 +277,7 @@ msgid ""
 msgstr ""
 "Auf dem Computer entspricht die Position (0, 0) zufällig der oberen linken "
 "Seite des Computerbildschirms. Es ist dann sinnvoll, dass die Koordinaten "
-"positiv sind, wenn Du in die rechte untere Ecke gehst."
+"positiv sind, wenn du in die rechte untere Ecke gehst."
 
 msgid ""
 "This leads to another question: why is position zero the top left of the "
@@ -300,7 +300,7 @@ msgstr ""
 
 #: course/lesson-7-member-variables/lesson.tres:228
 msgid "How do you access sub-variables?"
-msgstr "Wie greifst Du auf Unterkomponenten zu?"
+msgstr "Wie greifst du auf Unterkomponenten zu?"
 
 #: course/lesson-7-member-variables/lesson.tres:229
 msgid ""
@@ -309,7 +309,7 @@ msgid ""
 "[code]x[/code], for example?"
 msgstr ""
 "Variablen enthalten oft Unterkomponenten, z.B. [code]position[/code] hat "
-"zwei Unterkomponenten: [code]x[/code] und [code]y[/code]. Wie würdest Du "
+"zwei Unterkomponenten: [code]x[/code] und [code]y[/code]. Wie würdest du "
 "beispielsweise auf den [code]x[/code] zugreifen?"
 
 #: course/lesson-7-member-variables/lesson.tres:231
@@ -317,7 +317,7 @@ msgid ""
 "To access a sub-variable, you need to write a dot between the parent "
 "variable name and the sub-variable name."
 msgstr ""
-"Um auf eine Unterkomponente zuzugreifen, musst Du einen Punkt zwischen dem "
+"Um auf eine Unterkomponente zuzugreifen, musst du einen Punkt zwischen dem "
 "Namen der übergeordneten Variablen und dem Namen der Untervariablen "
 "schreiben."
 
@@ -358,7 +358,7 @@ msgstr ""
 
 msgid "For now, just know you can use the dot to access them."
 msgstr ""
-"Für den Moment weißt Du nur, dass Du den Punkt verwenden kannst, um auf sie "
+"Für den Moment weißt du nur, dass du den Punkt verwenden kannst, um auf sie "
 "zuzugreifen."
 
 msgid ""
@@ -370,7 +370,7 @@ msgid ""
 "In the next lessons, you'll create your own variables and do operations on "
 "them to add or remove [code]score[/code], [code]health[/code], you name it."
 msgstr ""
-"In den nächsten Lektionen erstellst Du deine eigenen Variablen und führst "
+"In den nächsten Lektionen erstellst du deine eigenen Variablen und führst "
 "Operationen für sie aus, um Punktzahl([code]score[/code]), "
 "Leben([code]health[/code]) oder Andere hinzuzufügen oder zu entfernen."
 
@@ -429,7 +429,7 @@ msgid ""
 "Remember you need to use the equal sign ([code]=[/code]) to change the value "
 "of a variable, like the turtle's position."
 msgstr ""
-"Denk daran: Du benutzt das Gleichheitszeichen ([code]=[/code]) um einer "
+"Denk daran: du benutzt das Gleichheitszeichen ([code]=[/code]) um einer "
 "Variablen neue Werte, wie z.B. die Position der Schildkröte, zuzuweisen."
 
 msgid ""

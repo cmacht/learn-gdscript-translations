@@ -199,7 +199,7 @@ msgstr ""
 
 #: course/lesson-16-2d-vectors/lesson.tres:166
 msgid "How would you move the robot 50 pixels to the left?"
-msgstr "Wie würdest Du den Roboter 50 Pixel nach links bewegen?"
+msgstr "Wie würdest du den Roboter 50 Pixel nach links bewegen?"
 
 #: course/lesson-16-2d-vectors/lesson.tres:169
 msgid ""
@@ -216,7 +216,7 @@ msgid ""
 msgstr ""
 "[code]position.x -= Vector2(50, 0)[/code] versucht, einen 2D-Vektor auf die "
 "Untervariable [code]x[/code] zu subtrahieren, die eine Dezimalzahl ist. Die "
-"Werttypen sind nicht kompatibel. Wenn Du das versuchst, erhältst Du eine "
+"Werttypen sind nicht kompatibel. Wenn du das versuchst, erhältst du eine "
 "Fehlermeldung."
 
 #: course/lesson-16-2d-vectors/lesson.tres:172
@@ -232,7 +232,7 @@ msgid ""
 "In the next few practices, you'll use vectors to change scale and position "
 "values."
 msgstr ""
-"In den nächsten Übungen verwendest Du Vektoren, um die Werte von Skalierung "
+"In den nächsten Übungen verwendest du Vektoren, um die Werte von Skalierung "
 "und Position zu ändern."
 
 #: course/lesson-16-2d-vectors/lesson.tres:190
@@ -295,7 +295,7 @@ msgid ""
 "As in the previous practice, make sure to use vectors when dealing with "
 "scale and position."
 msgstr ""
-"Achte wie in der vorherigen Übung darauf, Vektoren zu verwenden, wenn Du "
+"Achte wie in der vorherigen Übung darauf, Vektoren zu verwenden, wenn du "
 "dich mit Skalierung und Position befasst."
 
 #: course/lesson-16-2d-vectors/lesson.tres:229
