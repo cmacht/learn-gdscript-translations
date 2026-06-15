@@ -88,7 +88,7 @@ msgid ""
 "You may notice that the health of the robot can go below [code]0[/code]. "
 "We'll see how to manage this in a future lesson using [i]conditions[/i]."
 msgstr ""
-"Möglicherweise stellst Du fest, dass der Zustand des Roboters unter [code]0[/"
+"Möglicherweise stellst du fest, dass der Zustand des Roboters unter [code]0[/"
 "code] liegen kann. Wir werden sehen, wie wir dies in einer zukünftigen "
 "Lektion mit [i]Bedingungen[/i] verwalten können."
 
@@ -154,7 +154,7 @@ msgid ""
 "[code]heal()[/code] functions so the robot's health can decrease and "
 "increase."
 msgstr ""
-"In den folgenden Übungen schreibest Du die Funktionen [code]take_damage()[/"
+"In den folgenden Übungen schreibest du die Funktionen [code]take_damage()[/"
 "code] und [code]heal()[/code], damit die Gesundheit des Roboters abnehmen "
 "und sich erhöhen kann."
 
@@ -185,7 +185,7 @@ msgstr "Der Roboter beginnt mit 100 Leben und nimmt 50 Schaden."
 
 #: course/lesson-9-adding-and-subtracting/lesson.tres:135
 msgid "Learn how to deal damage to entities like our robot."
-msgstr "Erfahre, wie Du Einheiten wie unserem Roboter Schaden zufügen können."
+msgstr "Erfahre, wie du Einheiten wie unserem Roboter Schaden zufügen können."
 
 #: course/lesson-9-adding-and-subtracting/lesson.tres:140
 msgid "Healing the Robot"

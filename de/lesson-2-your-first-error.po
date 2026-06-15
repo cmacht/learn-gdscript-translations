@@ -23,13 +23,13 @@ msgstr ""
 #: course/lesson-2-your-first-error/lesson.tres:14
 msgid "When you program, you are bound to run into errors. Tons of them."
 msgstr ""
-"Wenn Du programmierst, treten zwangsläufig Fehler auf. Möglicherweise sehr "
+"Wenn du programmierst, treten zwangsläufig Fehler auf. Möglicherweise sehr "
 "viele von Ihnen."
 
 msgid ""
 "But you shouldn't worry! On the computer, [b]errors are a good thing[/b]."
 msgstr ""
-"Aber Du solltest dir keine Sorgen machen! Auf dem Computer sind [b]Fehler "
+"Aber du solltest dir keine Sorgen machen! Auf dem Computer sind [b]Fehler "
 "eine gute Sache[/b]."
 
 msgid ""
@@ -45,7 +45,7 @@ msgid ""
 "because they show you what is wrong in your programs."
 msgstr ""
 "In der Schule hast du vielleicht gelernt, dass Fehler eine schlechte Sache "
-"sind. Wenn Du etwas programmierest, ist das nicht der Fall: [b]Fehler helfen "
+"sind. Wenn du etwas programmierest, ist das nicht der Fall: [b]Fehler helfen "
 "dir, korrekte Programme zu schreiben[/b]."
 
 #: course/lesson-2-your-first-error/lesson.tres:30
@@ -88,7 +88,7 @@ msgid ""
 "fix them."
 msgstr ""
 "Fehler sind Nachrichten, die absichtlich von Programmierkollegen entworfen "
-"wurden, die vor Dir kamen. Sie erwarteten, dass Du bestimmte Probleme haben "
+"wurden, die vor Dir kamen. Sie erwarteten, dass du bestimmte Probleme haben "
 "könntest."
 
 msgid ""
@@ -150,7 +150,7 @@ msgstr "Behebe deinen ersten Fehler"
 #: course/lesson-2-your-first-error/lesson.tres:111
 msgid "This code is incorrect and will cause an error when you try to run it."
 msgstr ""
-"Dieser Code ist falsch und verursacht einen Fehler, wenn Du versuchst, ihn "
+"Dieser Code ist falsch und verursacht einen Fehler, wenn du versuchst, ihn "
 "auszuführen."
 
 msgid ""
@@ -168,7 +168,7 @@ msgstr ""
 "Kommentar, den der Computer ignoriert."
 
 msgid "Test the current code by pressing the [i]Run[/i] button."
-msgstr "Teste den aktuellen Code, indem Du auf die Taste [i]Run[/i] klickst."
+msgstr "Teste den aktuellen Code, indem du auf die Taste [i]Run[/i] klickst."
 
 msgid "Then, remove the comment sign (#) to make the code valid."
 msgstr "Entferne dann das Kommentarzeichen (#), um den Code gültig zu machen."
@@ -178,8 +178,8 @@ msgid ""
 "that'll cause another error. You may try that too, if you feel like it."
 msgstr ""
 "Achte darauf, den Abstand vor [code]return[/code] nicht zu entfernen! "
-"Andernfalls führt dies zu einem weiteren Fehler. Das kannst Du auch "
-"versuchen, wenn Du dazu Lust hast."
+"Andernfalls führt dies zu einem weiteren Fehler. Das kannst du auch "
+"versuchen, wenn du dazu Lust hast."
 
 #: course/lesson-2-your-first-error/lesson.tres:132
 msgid "There's an error in this code. We need you to fix it!"

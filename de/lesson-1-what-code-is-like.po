@@ -133,7 +133,7 @@ msgid ""
 "a programming language."
 msgstr ""
 "Computer verstehen natürliche Sprachen wie Deutsch nicht. Damit sie das tun, "
-"was Du willst, musst du Ihnen genaue Anweisungen in einer Programmiersprache "
+"was du willst, musst du Ihnen genaue Anweisungen in einer Programmiersprache "
 "geben."
 
 #: course/lesson-1-what-code-is-like/lesson.tres:114
@@ -233,7 +233,7 @@ msgid ""
 "If you learn one language and then want to learn another, will you have to "
 "start from scratch?"
 msgstr ""
-"Wenn Du eine Sprache lernst und dann eine andere lernen willst, musst Du "
+"Wenn du eine Sprache lernst und dann eine andere lernen willst, musst du "
 "dann bei Null anfangen?"
 
 #: course/lesson-1-what-code-is-like/lesson.tres:197
@@ -338,7 +338,7 @@ msgstr ""
 
 #: course/lesson-1-what-code-is-like/lesson.tres:260
 msgid "What and how you'll learn"
-msgstr "Was und wie Du lernen wirst"
+msgstr "Was und wie du lernen wirst"
 
 #: course/lesson-1-what-code-is-like/lesson.tres:262
 msgid ""
@@ -358,7 +358,7 @@ msgid ""
 "- How to write GDScript code.\n"
 "- Essential programming foundations to get you started."
 msgstr ""
-"- Etwas über die der Denkweise, die Du als Entwickler brauchst. Zu viele "
+"- Etwas über die der Denkweise, die du als Entwickler brauchst. Zu viele "
 "Programmierkurse überspringen diesen wesentlichen Teil.\n"
 "- Wie man GDScript-Code schreibt.\n"
 "- Essenzielle Grundlagen der Programmierung, auf welchen du aufbauen kannst."
@@ -446,7 +446,7 @@ msgid ""
 "We prepared a code sample for you. For this practice, you don't need to "
 "change anything."
 msgstr ""
-"Wir haben ein Codebeispiel für dich vorbereitet. Für diese Übung musst Du "
+"Wir haben ein Codebeispiel für dich vorbereitet. Für diese Übung musst du "
 "nichts ändern."
 
 msgid "To test the code, click the [i]Run[/i] button below the code editor."
