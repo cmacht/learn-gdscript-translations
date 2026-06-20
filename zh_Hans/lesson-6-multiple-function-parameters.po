@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Learn GDScript From Zero\n"
 "Report-Msgid-Bugs-To: https://github.com/GDQuest/learn-gdscript\n"
 "POT-Creation-Date: 2026-01-21 11:55+0100\n"
-"PO-Revision-Date: 2026-06-20 05:01+0000\n"
+"PO-Revision-Date: 2026-06-21 06:01+0000\n"
 "Last-Translator: Jinhua Hu <skl4623@outlook.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/learn-gdscript-from-zero/lesson-6-multiple-function-parameters/"
@@ -36,13 +36,12 @@ msgstr ""
 "这个功能有点限制。 相反，如果我们有一个函数来绘制一个 [i]任意[/i] 大小的正方"
 "形会更好。 或者更好的是：任何类型的矩形（正方形是特殊的矩形）。"
 
-#, fuzzy
 msgid ""
 "In previous lessons, you used the [code]rotate()[/code] function and gave it "
 "an [b]argument[/b]."
 msgstr ""
-"在之前的课程中，你使用了 [code]rotate()[/code] 函数并给了它一个 [i] 参数[/"
-"i]。"
+"在之前的课程中，你使用了 [code]rotate()[/code] 函数并给了它一个 [b] 参数[/"
+"b]。"
 
 #: course/lesson-6-multiple-function-parameters/lesson.tres:38
 msgid ""
@@ -68,11 +67,10 @@ msgstr ""
 "值。让我们看看rotate（）函数是如何定义和使用参数的："
 
 #: course/lesson-6-multiple-function-parameters/lesson.tres:62
-#, fuzzy
 msgid ""
 "For now, focus on the first line, the function [i]definition[/i]: [code]func "
 "rotate(radians)[/code]."
-msgstr "现在，请关注第一行：[code]func rotate(radians)[/code]。"
+msgstr "现在，请关注第一行，函数[i]定义[/i]：[code]func rotate(radians)[/code]。"
 
 msgid ""
 "The word [code]radians[/code] is the function's parameter. It's the "
@@ -82,13 +80,12 @@ msgstr ""
 "单词[code]radians[/code]是函数的参数。它是在调用函数时被实际值“替换”的占位符"
 "。"
 
-#, fuzzy
 msgid ""
 "When you [i]call[/i] this function with [code]rotate(0.5)[/code], the "
 "computer replaces the name \"radians\" in the function with [code]0.5[/code]."
 msgstr ""
-"当你调用 [code]rotate(0.5)[/code] 时，计算机会将值 [code]0.5[/code] 绑定到标"
-"签 [code]radians[/code]。"
+"当你[i]调用[/i] [code]rotate(0.5)[/code] 时，计算机会将函数中的“radians”替换"
+"为[code]0.5[/code]。"
 
 msgid ""
 "Each time you call the function, the replacement happens again: If you call "
@@ -115,11 +112,12 @@ msgid ""
 "pass when calling the function."
 msgstr "参数是一种占位符，在调用函数时，它会被你传入的实际数值所替换。"
 
-#, fuzzy
 msgid ""
 "The value can be different each time you call the function: it depends on "
 "what you put in parentheses."
-msgstr "调用时值可能会改变：这取决于你在调用函数时放入括号中的内容。"
+msgstr ""
+"你每次调用函数时，参数的值可以是不同的：这取决于你在调用函数时放入括号中的内"
+"容。"
 
 #: course/lesson-6-multiple-function-parameters/lesson.tres:84
 msgid "A label you give to a value the function receives."
@@ -138,13 +136,12 @@ msgid "How to create functions with parameters"
 msgstr "如何创建带参数的函数"
 
 #: course/lesson-6-multiple-function-parameters/lesson.tres:94
-#, fuzzy
 msgid ""
 "When you write a function [i]definition[/i] (the line starting with the "
 "[code]func[/code] keyword), you can add parameters."
 msgstr ""
-"你可以在 写函数的[i]定义[/i]（以 [code]func[/code] 关键字开头的行）时提供函数"
-"参数。"
+"在你编写函数的[i]定义[/i]（以 [code]func[/code] 关键字开头的行）时，你可以添"
+"加参数。"
 
 msgid ""
 "To add a parameter, write a placeholder name inside the parentheses. When "
@@ -160,7 +157,6 @@ msgid ""
 "up to you."
 msgstr "你可以为参数指定任何名称！ 如何命名函数和参数取决于你。"
 
-#, fuzzy
 msgid ""
 "Just remember that names cannot contain spaces. To write parameter names "
 "with multiple words, in GDScript, we use underscores by convention."
@@ -233,16 +229,14 @@ msgid "Functions can have multiple parameters"
 msgstr "函数可以有多个参数"
 
 #: course/lesson-6-multiple-function-parameters/lesson.tres:176
-#, fuzzy
 msgid ""
 "A function can have multiple parameters. You can use as many placeholders as "
 "you [i]need[/i]."
-msgstr "你可以在一个函数中使用多个参数。 事实上，你 [i] 想要多少 [/i] 都可以。"
+msgstr "一个函数可以有多个参数。根据你的需要，你想用多少个占位符都可以。"
 
-#, fuzzy
 msgid ""
 "To add multiple parameters, write a comma between each placeholder name."
-msgstr "要分隔函数参数，你需要在它们之间写一个逗号。"
+msgstr "要添加多个参数，请在每个占位符名称之间加上逗号。"
 
 msgid ""
 "For example, [code]func move(x, y)[/code] has two placeholders: [code]x[/"
@@ -253,7 +247,6 @@ msgstr ""
 "[code]y[/code] 。在调用函数时，每个占位符都会被替换为自身的值。"
 
 #: course/lesson-6-multiple-function-parameters/lesson.tres:198
-#, fuzzy
 msgid "Must I write spaces between function parameters?"
 msgstr "我必须在函数参数之间写空格吗？"
 
@@ -275,11 +268,10 @@ msgid "We often use spaces after the comma for readability."
 msgstr "为了便于阅读，我们才经常在逗号后使用空格。"
 
 #: course/lesson-6-multiple-function-parameters/lesson.tres:214
-#, fuzzy
 msgid ""
 "The following example shows a function with two parameters. The function "
 "moves an entity on both the X and Y axes."
-msgstr "以下示例定义了一个函数，该函数使用两个参数在 X 轴和 Y 轴上移动实体。"
+msgstr "以下示例展示了一个带有两个参数的函数。该函数可在X轴和Y轴上移动一个实体。"
 
 msgid ""
 "When you call [code]move(50, 100)[/code], every [code]x[/code] in the "
@@ -393,9 +385,8 @@ msgid "func function_name(): parameter_1, parameter_2, ..."
 msgstr "func 函数名(): 参数_1, 参数_2, ..."
 
 #: course/lesson-6-multiple-function-parameters/lesson.tres:290
-#, fuzzy
 msgid "Now it's your turn to create a function with multiple parameters."
-msgstr "现在轮到你来创建一个多参数的函数了：一个可以绘制任意大小矩形的函数。"
+msgstr "现在，轮到你来创建一个带有多个参数的函数了。"
 
 msgid ""
 "In the following practices, you'll write functions that I will call with "
@@ -418,7 +409,6 @@ msgstr "在创建任意大小的矩形之前，让我们先联系一个更简单
 msgid "I will call your function twice with different values:"
 msgstr "我将使用不同的值调用你的函数两次："
 
-#, fuzzy
 msgid ""
 "[code]draw_corner(240)[/code]\n"
 "[code]draw_corner(120)[/code]"
@@ -434,14 +424,13 @@ msgstr ""
 "你的任务是在函数定义中添加一个名为 [code]length[/code] 的参数。这会创建一个占"
 "位符，当应用调用你的函数时，占位符将被替换为括号中的值。"
 
-#, fuzzy
 msgid ""
 "Your function should move the turtle forward by an amount defined by the "
 "[code]length[/code] parameter, turn right [code]90[/code] degrees, then move "
 "forward by [code]length[/code] again."
 msgstr ""
-"该函数将使海龟向前移动一个由参数 [code]length[/code] 定义的量，转动 "
-"[code]90[/code] 度，然后向前移动 [code]length[/code] 个像素。"
+"你的函数应该使乌龟向前移动由[code]length[/code]参数定义的长度，然后右"
+"转[code]90[/code]度，接着再次向前移动[code]length[/code]的长度。"
 
 msgid ""
 "Each time the app calls your function, [code]length[/code] will be replaced "
@@ -461,18 +450,16 @@ msgid "Using multiple parameters"
 msgstr "使用多个参数"
 
 #: course/lesson-6-multiple-function-parameters/lesson.tres:331
-#, fuzzy
 msgid ""
 "Now let's make the [code]draw_corner()[/code] function even more flexible. "
 "We'll add a second placeholder so the angle can also vary."
 msgstr ""
-"在这个练习中，我们将改进我们的 [code]draw_corner()[/code] 函数，以便角度也可"
-"以变化。"
+"在这个练习中，我们要把[code]draw_corner()[/code]函数改的更加灵活。我们要添加"
+"第二个占位符，以便角度也可以变化。"
 
 msgid "I will call your function with different length and angle values:"
 msgstr "我将用不同的长度和角度来调用你的函数："
 
-#, fuzzy
 msgid ""
 "[code]draw_corner(240, 45)[/code]\n"
 "[code]draw_corner(120, 90)[/code]"
@@ -480,14 +467,13 @@ msgstr ""
 "[code]draw_corner(240, 45)[/code]\n"
 "[code]draw_corner(120, 90)[/code]"
 
-#, fuzzy
 msgid ""
 "Your task is to add the [code]angle[/code] parameter after [code]length[/"
 "code] in the function definition. Remember to separate the two placeholders "
 "with a comma."
 msgstr ""
-"将 [code]angle[/code] 参数添加到 [code]draw_corner()[/code] 函数中，放在"
-"[code]length[/code]参数之后，并使用它来绘制不同角度的角。"
+"你的任务是：在函数定义中，将[code]angle[/code]参数添加到[code]length[/code]之"
+"后。记得用逗号分隔这两个占位符。"
 
 msgid ""
 "Remember: When the app calls [code]draw_corner(240, 45)[/code], the "
@@ -515,7 +501,6 @@ msgstr "是时候从头开始编写一个完整的函数了！你将创建一个
 msgid "I will call your function with different sizes:"
 msgstr "我将用不同的尺寸调用你的函数："
 
-#, fuzzy
 msgid ""
 "[code]draw_square(200)[/code]\n"
 "[code]draw_square(100)[/code]"
@@ -523,14 +508,14 @@ msgstr ""
 "[code]draw_square(200)[/code]\n"
 "[code]draw_square(100)[/code]"
 
-#, fuzzy
 msgid ""
 "Write a function named [code]draw_square()[/code] with one parameter called "
 "[code]length[/code]. Remember, this parameter is a placeholder that gets "
 "filled with the actual value when the function is called."
 msgstr ""
-"创建一个名为 [code]draw_square()[/code] 的函数，它有一个参数：正方形边的 "
-"[code]length[/code]。"
+"编写一个名为[code]draw_square()[/code]的函数，该函数带有一个参"
+"数[code]length[/code]。请记住，此参数是一个占位符，在调用函数时会被实际值所填"
+"充。"
 
 msgid ""
 "Your function needs to move forward by [code]length[/code], turn right 90 "
@@ -559,14 +544,12 @@ msgid "Drawing rectangles of any size"
 msgstr "绘制任意大小的矩形"
 
 #: course/lesson-6-multiple-function-parameters/lesson.tres:386
-#, fuzzy
 msgid "Let's create a function to draw rectangles with any length and height."
-msgstr "使用两个参数，编写一个函数来绘制任意角度的角。"
+msgstr "让我们创建一个，用于绘制任意长度和宽度的矩形的函数。"
 
 msgid "I will call your function twice with different sizes:"
 msgstr "我将使用不同的尺寸调用你的函数两次："
 
-#, fuzzy
 msgid ""
 "[code]draw_rectangle(260, 180)[/code]\n"
 "[code]draw_rectangle(160, 210)[/code]"
